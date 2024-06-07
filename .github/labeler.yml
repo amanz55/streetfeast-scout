@@ -1,0 +1,8 @@
+repo:
+  - "*"
+
+"@django/backend":
+  - "backend/**/*"
+
+"@nextjs/web":
+  - "frontend/**/*"
