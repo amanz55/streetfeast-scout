@@ -85,7 +85,7 @@ def get_nearby_food_trucks(request):
 
     # Get the first 10 food trucks with closest distance
     result = []
-    for food_truck, distance in food_trucks_with_distance[:10]:
+    for food_truck, distance in food_trucks_with_distance[:16]:
         dayshours = food_truck.dayshours
         is_open = is_food_truck_open(dayshours)
 
@@ -100,6 +100,8 @@ def get_nearby_food_trucks(request):
             "latitude": food_truck.latitude,
             "longitude": food_truck.longitude,
             "dayshours": food_truck.dayshours,
+            "expiration_date": food_truck.expiration_date,
+            "location": food_truck.location,
             "is_open": is_open,
             "distance_km": distance  # Include the distance in kilometers
         })
@@ -126,6 +128,10 @@ def get_all_food_trucks(request):
             "latitude": food_truck.latitude,
             "longitude": food_truck.longitude,
             "dayshours": food_truck.dayshours,
+            "expiration_date": food_truck.expiration_date,
+            "location": food_truck.location,
+            "is_open": is_food_truck_open(food_truck.dayshours),
+            "distance_km": None
         })
 
     return Response(result, status=status.HTTP_200_OK)
