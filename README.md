@@ -152,7 +152,28 @@ Explore additional features such as real-time updates, user reviews, and ratings
 
 ## 📸 Screenshots
 
-[Add screenshots from the live demo website here]
+![Screenshot 2024-06-08 131246](https://github.com/amanz55/streetfeast-scout/assets/80655668/a55cae80-8655-4a81-9a84-6ec94343fd30)
+
+
+
+![Screenshot 2024-06-08 131233](https://github.com/amanz55/streetfeast-scout/assets/80655668/d544b5f1-5fde-4b3c-a76d-574c96d50d31)
+
+
+
+![Screenshot 2024-06-08 131217](https://github.com/amanz55/streetfeast-scout/assets/80655668/5dd363c3-2427-46fd-9c4a-a7061df38fd3)
+
+
+
+![Screenshot 2024-06-08 131206](https://github.com/amanz55/streetfeast-scout/assets/80655668/a7ae0f90-8231-45d0-8e32-43e1b341e06a)
+
+
+
+![Screenshot 2024-06-08 131141](https://github.com/amanz55/streetfeast-scout/assets/80655668/5f8aba8c-1792-4b1a-9b6c-0f1704a23a91)
+
+
+
+![Screenshot 2024-06-08 131301](https://github.com/amanz55/streetfeast-scout/assets/80655668/a7f9aa40-07de-4820-8ec6-20ed587250d4)
+
 
 ## 🛠 Contributing
 
