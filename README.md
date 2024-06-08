@@ -132,7 +132,7 @@ Successfully implemented Django models, views, and API endpoints to serve food t
 
 Designed a user-friendly and intuitive frontend interface using React, with components for viewing food truck details and interactive maps.
 
-### 🖥3, CLI Integration
+### 🖥 3, CLI Integration
 
 Developed a command-line interface (CLI) to provide users with a quick and efficient way to find nearby food trucks using coordinates.
 
@@ -149,6 +149,10 @@ Deploy the application to make it accessible to a wider audience, potentially us
 ### 🗓3, Enhanced Features
 
 Explore additional features such as real-time updates, user reviews, and ratings to enhance the user experience.
+
+### 🌐4, Advanced Map Functionalities
+
+Integrate more advanced features such like routing and direction based navigation. Incorporating more reliable and advanced proximity calculating algorithms.
 
 ## 📸 Screenshots
 
