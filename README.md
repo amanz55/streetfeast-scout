@@ -118,10 +118,6 @@ Integrating a map service into the frontend proved to be challenging due to limi
 
 Parsing and cleaning the CSV data provided for food truck locations required careful consideration of data formats and structures. Custom functions were developed to ensure accurate data representation in the database.
 
-### 3, Deployment
-
-While not implemented in the current version, deployment was identified as a potential challenge due to the need for infrastructure setup and configuration. Future plans include deploying the application to make it accessible to a wider audience.
-
 ## ✅ Accomplishments
 
 ### 🛠1, Backend Functionality
@@ -177,13 +173,8 @@ Integrate more advanced features such like routing and direction based navigatio
 
 
 ![Screenshot 2024-06-08 131301](https://github.com/amanz55/streetfeast-scout/assets/80655668/a7f9aa40-07de-4820-8ec6-20ed587250d4)
-
-
-## 🛠 Contributing
-
-Contributions are welcome! If you encounter any issues or have suggestions for improvements, please feel free to open an issue or submit a pull request.
+ 
 
 ## License
 
 This project is licensed under the MIT License.
-```
