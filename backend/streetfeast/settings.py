@@ -59,7 +59,7 @@ MIDDLEWARE = [
 
 CORS_ALLOWED_ORIGINS = [
     'http://localhost:3000',
-    'streetfeast-scout.vercel.app',
+    'https://streetfeast-scout.vercel.app',
     # 'http://localhost:3000/',  # Add your frontend URL here
     # Add other allowed origins as needed
 ]
