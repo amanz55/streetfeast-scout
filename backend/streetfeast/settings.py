@@ -29,7 +29,7 @@ SECRET_KEY = 'django-insecure-j%=df-5r3efelv#@rjztruo*v-b7v-@h&sf3wte11@nwso#^zm
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ["127.0.0.1", ".vercel.app", ".now.sh", "streetfeast-scout.onrender.com", "streetfeast-scout-production.up.railway.app"]
+ALLOWED_HOSTS = ["0.0.0.0"]
 
 
 # Application definition
