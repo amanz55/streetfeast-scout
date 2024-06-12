@@ -51,7 +51,7 @@ npm install
 
 5, **Set Up Postgres DB**: Create a Postgresql database and obtain the connection URI/ string. Replace the placeholder values in the .env.example file with your actual connection string and any other required environment variables. Rename the file to .env.
 
-6, **Import Data into Postgres**: Use custom commands to import food truck data from a CSV file into MongoDB.
+6, **Import Data into Postgres**: Use custom commands to import food truck data from a CSV file into PostgreSQL Database.
 ```bash
 cd backend/api
 python manage.py import_food_trucks
