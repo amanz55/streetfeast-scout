@@ -29,7 +29,7 @@ SECRET_KEY = 'django-insecure-j%=df-5r3efelv#@rjztruo*v-b7v-@h&sf3wte11@nwso#^zm
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ["127.0.0.1", ".vercel.app", ".now.sh"]
+ALLOWED_HOSTS = ["127.0.0.1", ".vercel.app", ".now.sh", "streetfeast-scout.onrender.com"]
 
 
 # Application definition
@@ -58,7 +58,8 @@ MIDDLEWARE = [
 ]
 
 CORS_ALLOWED_ORIGINS = [
-    'http://localhost:3000',  # Add your frontend URL here
+    'http://localhost:3000',
+    'streetfeast-scout.vercel.app',
     # 'http://localhost:3000/',  # Add your frontend URL here
     # Add other allowed origins as needed
 ]
